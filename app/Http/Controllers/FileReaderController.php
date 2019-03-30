@@ -42,6 +42,7 @@ class FileReaderController extends Controller
     {
       
       $file = $request->fileUpload;
+      // Check file type
       if ($file->getMimeType() == "text/plain" || $file->getMimeType() == "text/html") {
         $path = $file->move('upload', $file->getClientOriginalName());
         $content = File::get($path);
