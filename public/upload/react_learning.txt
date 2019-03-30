@@ -1,0 +1,12 @@
+replacereducer
+Store as Observable
+redux-action to createAction (handleActions)
+redux-create-reducer (createReducer)
+redux-immutable.js
+delete key ES2016 return Object.assign({}, state, { name: undefined } ); // set undefined for key
+Immutable.js
+redux-analytics
+redux-login
+Proxy js
+getOwnPropertyDescriptors
+asynchronous-iteration
