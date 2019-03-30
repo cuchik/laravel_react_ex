@@ -12,4 +12,5 @@ File Reader project control text file, provide the way to upload file, read file
 - Run command to install package of react: $ npm install
 - Run command to watch reactjs, when you change any file from react source code, watcher will build to .js file for your Laravel project: $ npm run watch
 - Run command to run server of Laravel: $ php artisan serve
+- To edit your reactjs source code, it will be placed in resourcees/js/src
 - Open your website via url: http://localhost:8000
